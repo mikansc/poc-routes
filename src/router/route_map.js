@@ -1,4 +1,4 @@
-import { DashboardPage } from "./containers/Dashboard";
+import { DashboardPage } from "./containers/DashboardPage";
 import { HomePage } from "./containers/HomePage";
 import { LoginPage } from "./containers/LoginPage";
 import { NotFoundPage } from "./containers/NotFoundPage";
